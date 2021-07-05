@@ -1,0 +1,26 @@
+.mymin{
+  border-color: navy;
+  font-size: larger;
+ padding: 30px 120px;
+ display: inline;
+ text-align: center;
+ margin: 10px 150px;
+
+}
+.mybtn{
+  background-color: linen;
+  font-size: larger;
+ padding: 3px 12px;
+ display: inline;
+ text-align: center;
+ margin: 10px 146px;
+  
+}
+
+body{
+  background-color:cornsilk;
+  font-style: oblique;
+  font-weight: 500;
+  font-size: large;
+
+}
